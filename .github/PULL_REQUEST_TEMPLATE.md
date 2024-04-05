@@ -43,6 +43,9 @@ https://docs.github.com/en/free-pro-team@latest/github/managing-your-work-on-git
 
 <!-- Visual changes require screenshots -->
 
+## Checklist
+
+- [ ] Ran **Synchronize**
 
 ## Added tests?
 
