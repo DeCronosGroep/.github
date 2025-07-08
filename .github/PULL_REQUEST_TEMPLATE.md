@@ -48,7 +48,7 @@ Screenshots should always show in Dutch unless the application is English-only.
 
 - [ ] Ran **Synchronize**
 - [ ] Verified new functionality for the correct app roles
-- [ ] Ensured there's no database indexing errors
+- [ ] Ensured there are no database indexing errors
 
 ## Added to documentation?
 
